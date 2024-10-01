@@ -1,3 +1,4 @@
 # FirstGit-demo
-This is my first Git Repository
-Author - Bharathkumar Nilugal
+This is my first Git Repository.
+<br>
+/Author - Bharathkumar Nilugal
